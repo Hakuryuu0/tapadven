@@ -1,0 +1,1 @@
+query_id=AAEODkZfAgAAAA4ORl8qpiaK&user=%7B%22id%22%3A5893393934%2C%22first_name%22%3A%22%E3%85%A4%F0%9F%8D%85%F0%9F%8C%B1SEED%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22Izkaizz%22%2C%22language_code%22%3A%22id%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1728254330&hash=18a9852f0f9c55115b12b6efe9298216b202ac09f09434db6484b2c431a00254
